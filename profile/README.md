@@ -1,4 +1,4 @@
-# Ibby AI — Agent Lab
+# Ibby AI
 
 We're on a mission to bring agents to everyone.
 
@@ -16,7 +16,7 @@ That means building **agents** people can use, and the **infrastructure** develo
 
 ## First release: Rafiki
 
-[**Rafiki**](https://github.com/Saidiibrahim/rafiki) is an open-source agent harness for running remote background agents. Built on Cloudflare and [Modal](https://modal.com), it gives developers a customisable foundation for deploying stateful, long-running agent workflows.
+[**Rafiki**](https://github.com/Saidiibrahim/rafiki) is an open-source agent harness for running remote background agents. Built on [Modal](https://modal.com) and Cloudflare, it gives developers a customisable foundation for deploying stateful, long-running agents.
 
 <hr />
 
